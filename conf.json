@@ -1,0 +1,936 @@
+{
+  "endpoint":"http://query.wikidata.org/sparql",
+  "entity":{
+    "symptoms":{
+      "headache" : {
+        "url" : "http://www.wikidata.org/entity/Q86"
+      },
+      "necrosis" : {
+        "url" : "http://www.wikidata.org/entity/Q178069"
+      },
+      "syncope" : {
+        "url" : "http://www.wikidata.org/entity/Q180007"
+      },
+      "constipation" : {
+        "url" : "http://www.wikidata.org/entity/Q178436"
+      },
+      "shock" : {
+        "url" : "http://www.wikidata.org/entity/Q178061"
+      },
+      "strabismus" : {
+        "url" : "http://www.wikidata.org/entity/Q179951"
+      },
+      "infertility" : {
+        "url" : "http://www.wikidata.org/entity/Q179399"
+      },
+      "arthralgia" : {
+        "url" : "http://www.wikidata.org/entity/Q683498"
+      },
+      "exophthalmos" : {
+        "url" : "http://www.wikidata.org/entity/Q684383"
+      },
+      "chest pain" : {
+        "url" : "http://www.wikidata.org/entity/Q693058"
+      },
+      "heart failure" : {
+        "url" : "http://www.wikidata.org/entity/Q181754"
+      },
+      "sepsis" : {
+        "url" : "http://www.wikidata.org/entity/Q183134"
+      },
+      "angina pectoris" : {
+        "url" : "http://www.wikidata.org/entity/Q180762"
+      },
+      "abdominal pain" : {
+        "url" : "http://www.wikidata.org/entity/Q183425"
+      },
+      "hematoma" : {
+        "url" : "http://www.wikidata.org/entity/Q468787"
+      },
+      "cholecystitis" : {
+        "url" : "http://www.wikidata.org/entity/Q376666"
+      },
+      "anosmia" : {
+        "url" : "http://www.wikidata.org/entity/Q468433"
+      },
+      "thirst" : {
+        "url" : "http://www.wikidata.org/entity/Q474187"
+      },
+      "rectal tenesmus" : {
+        "url" : "http://www.wikidata.org/entity/Q403648"
+      },
+      "myalgia" : {
+        "url" : "http://www.wikidata.org/entity/Q474959"
+      },
+      "testicular pain" : {
+        "url" : "http://www.wikidata.org/entity/Q424318"
+      },
+      "acute kidney injury" : {
+        "url" : "http://www.wikidata.org/entity/Q424337"
+      },
+      "nephritis" : {
+        "url" : "http://www.wikidata.org/entity/Q401402"
+      },
+      "night sweats" : {
+        "url" : "http://www.wikidata.org/entity/Q474718"
+      },
+      "hematuria" : {
+        "url" : "http://www.wikidata.org/entity/Q373597"
+      },
+      "fecal incontinence" : {
+        "url" : "http://www.wikidata.org/entity/Q1147182"
+      },
+      "blood in stool" : {
+        "url" : "http://www.wikidata.org/entity/Q1214063"
+      },
+      "Bell's palsy" : {
+        "url" : "http://www.wikidata.org/entity/Q1135338"
+      },
+      "xerostomia" : {
+        "url" : "http://www.wikidata.org/entity/Q1162276"
+      },
+      "hepatosplenomegaly" : {
+        "url" : "http://www.wikidata.org/entity/Q1260186"
+      },
+      "splenomegaly" : {
+        "url" : "http://www.wikidata.org/entity/Q1129121"
+      },
+      "pimple" : {
+        "url" : "http://www.wikidata.org/entity/Q1172159"
+      },
+      "melena" : {
+        "url" : "http://www.wikidata.org/entity/Q1163908"
+      },
+      "weight loss" : {
+        "url" : "http://www.wikidata.org/entity/Q718113"
+      },
+      "visual impairment" : {
+        "url" : "http://www.wikidata.org/entity/Q737460"
+      },
+      "hypersomnia" : {
+        "url" : "http://www.wikidata.org/entity/Q751641"
+      },
+      "tic" : {
+        "url" : "http://www.wikidata.org/entity/Q738538"
+      },
+      "keratitis" : {
+        "url" : "http://www.wikidata.org/entity/Q757838"
+      },
+      "apnea" : {
+        "url" : "http://www.wikidata.org/entity/Q754424"
+      },
+      "aphasia" : {
+        "url" : "http://www.wikidata.org/entity/Q2836"
+      },
+      "anemia" : {
+        "url" : "http://www.wikidata.org/entity/Q5445"
+      },
+      "fatigue" : {
+        "url" : "http://www.wikidata.org/entity/Q9690"
+      },
+      "acidosis" : {
+        "url" : "http://www.wikidata.org/entity/Q185089"
+      },
+      "mania" : {
+        "url" : "http://www.wikidata.org/entity/Q185935"
+      },
+      "myocarditis" : {
+        "url" : "http://www.wikidata.org/entity/Q186235"
+      },
+      "erectile dysfunction" : {
+        "url" : "http://www.wikidata.org/entity/Q184674"
+      },
+      "nausea" : {
+        "url" : "http://www.wikidata.org/entity/Q186889"
+      },
+      "leukopenia" : {
+        "url" : "http://www.wikidata.org/entity/Q496812"
+      },
+      "anasarka" : {
+        "url" : "http://www.wikidata.org/entity/Q486485"
+      },
+      "lymphopenia" : {
+        "url" : "http://www.wikidata.org/entity/Q485831"
+      },
+      "low-grade fever" : {
+        "url" : "http://www.wikidata.org/entity/Q480971"
+      },
+      "wheeze" : {
+        "url" : "http://www.wikidata.org/entity/Q517104"
+      },
+      "kidney failure" : {
+        "url" : "http://www.wikidata.org/entity/Q476921"
+      },
+      "deafness" : {
+        "url" : "http://www.wikidata.org/entity/Q12133"
+      },
+      "amnesia" : {
+        "url" : "http://www.wikidata.org/entity/Q11072"
+      },
+      "blindness" : {
+        "url" : "http://www.wikidata.org/entity/Q10874"
+      },
+      "hypersalivation" : {
+        "url" : "http://www.wikidata.org/entity/Q761862"
+      },
+      "respiratory failure" : {
+        "url" : "http://www.wikidata.org/entity/Q767485"
+      },
+      "atrial fibrillation" : {
+        "url" : "http://www.wikidata.org/entity/Q815819"
+      },
+      "gait abnormality" : {
+        "url" : "http://www.wikidata.org/entity/Q827017"
+      },
+      "neck stiffness" : {
+        "url" : "http://www.wikidata.org/entity/Q841878"
+      },
+      "diplopia" : {
+        "url" : "http://www.wikidata.org/entity/Q775940"
+      },
+      "lymphadenopathy" : {
+        "url" : "http://www.wikidata.org/entity/Q847726"
+      },
+      "paresthesia" : {
+        "url" : "http://www.wikidata.org/entity/Q769220"
+      },
+      "meibomian cyst" : {
+        "url" : "http://www.wikidata.org/entity/Q769595"
+      },
+      "vaginal discharge" : {
+        "url" : "http://www.wikidata.org/entity/Q778502"
+      },
+      "hyponatremia" : {
+        "url" : "http://www.wikidata.org/entity/Q824292"
+      },
+      "dysphonia" : {
+        "url" : "http://www.wikidata.org/entity/Q836379"
+      },
+      "ecchymosis" : {
+        "url" : "http://www.wikidata.org/entity/Q1322382"
+      },
+      "pleural effusion" : {
+        "url" : "http://www.wikidata.org/entity/Q1334541"
+      },
+      "pneumonitis" : {
+        "url" : "http://www.wikidata.org/entity/Q1284347"
+      },
+      "sore throat" : {
+        "url" : "http://www.wikidata.org/entity/Q1292082"
+      },
+      "epididymitis" : {
+        "url" : "http://www.wikidata.org/entity/Q1344812"
+      },
+      "dysuria" : {
+        "url" : "http://www.wikidata.org/entity/Q1269399"
+      },
+      "pericardial effusion" : {
+        "url" : "http://www.wikidata.org/entity/Q1306218"
+      },
+      "glossitis" : {
+        "url" : "http://www.wikidata.org/entity/Q1324237"
+      },
+      "nail clubbing" : {
+        "url" : "http://www.wikidata.org/entity/Q1340669"
+      },
+      "hepatomegaly" : {
+        "url" : "http://www.wikidata.org/entity/Q1362864"
+      },
+      "mental confusion" : {
+        "url" : "http://www.wikidata.org/entity/Q557945"
+      },
+      "anisocoria" : {
+        "url" : "http://www.wikidata.org/entity/Q521953"
+      },
+      "heartburn" : {
+        "url" : "http://www.wikidata.org/entity/Q537297"
+      },
+      "anhedonia" : {
+        "url" : "http://www.wikidata.org/entity/Q545365"
+      },
+      "rheumatoid arthritis" : {
+        "url" : "http://www.wikidata.org/entity/Q187255"
+      },
+      "urticaria" : {
+        "url" : "http://www.wikidata.org/entity/Q187440"
+      },
+      "dyspnea" : {
+        "url" : "http://www.wikidata.org/entity/Q188008"
+      },
+      "ventricular fibrillation" : {
+        "url" : "http://www.wikidata.org/entity/Q848662"
+      },
+      "convulsion" : {
+        "url" : "http://www.wikidata.org/entity/Q852376"
+      },
+      "meningism" : {
+        "url" : "http://www.wikidata.org/entity/Q32069"
+      },
+      "obesity" : {
+        "url" : "http://www.wikidata.org/entity/Q12174"
+      },
+      "stroke" : {
+        "url" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "cough" : {
+        "url" : "http://www.wikidata.org/entity/Q35805"
+      },
+      "primary progressive aphasia" : {
+        "url" : "http://www.wikidata.org/entity/Q18767"
+      },
+      "irritability" : {
+        "url" : "http://www.wikidata.org/entity/Q29299"
+      },
+      "hypomania" : {
+        "url" : "http://www.wikidata.org/entity/Q188611"
+      },
+      "heart arrhythmia" : {
+        "url" : "http://www.wikidata.org/entity/Q189331"
+      },
+      "pulmonary edema" : {
+        "url" : "http://www.wikidata.org/entity/Q857667"
+      },
+      "hyperventilation" : {
+        "url" : "http://www.wikidata.org/entity/Q575168"
+      },
+      "spasms" : {
+        "url" : "http://www.wikidata.org/entity/Q574360"
+      },
+      "bruise" : {
+        "url" : "http://www.wikidata.org/entity/Q574491"
+      },
+      "sciatica" : {
+        "url" : "http://www.wikidata.org/entity/Q565276"
+      },
+      "anomic aphasia" : {
+        "url" : "http://www.wikidata.org/entity/Q567576"
+      },
+      "proteinuria" : {
+        "url" : "http://www.wikidata.org/entity/Q570197"
+      },
+      "thrombocytopenia" : {
+        "url" : "http://www.wikidata.org/entity/Q585285"
+      },
+      "tachypnea" : {
+        "url" : "http://www.wikidata.org/entity/Q570920"
+      },
+      "phlebitis" : {
+        "url" : "http://www.wikidata.org/entity/Q1423167"
+      },
+      "menorrhagia" : {
+        "url" : "http://www.wikidata.org/entity/Q1494682"
+      },
+      "failure to thrive" : {
+        "url" : "http://www.wikidata.org/entity/Q1497481"
+      },
+      "hematemesis" : {
+        "url" : "http://www.wikidata.org/entity/Q1570161"
+      },
+      "corneal ulcer" : {
+        "url" : "http://www.wikidata.org/entity/Q1628473"
+      },
+      "petechia" : {
+        "url" : "http://www.wikidata.org/entity/Q1412657"
+      },
+      "gastrointestinal bleeding" : {
+        "url" : "http://www.wikidata.org/entity/Q1495657"
+      },
+      "steatorrhea" : {
+        "url" : "http://www.wikidata.org/entity/Q1549428"
+      },
+      "urinary retention" : {
+        "url" : "http://www.wikidata.org/entity/Q1366695"
+      },
+      "lymphangitis" : {
+        "url" : "http://www.wikidata.org/entity/Q1476027"
+      },
+      "stridor" : {
+        "url" : "http://www.wikidata.org/entity/Q1525170"
+      },
+      "lissencephaly" : {
+        "url" : "http://www.wikidata.org/entity/Q1544416"
+      },
+      "delusion" : {
+        "url" : "http://www.wikidata.org/entity/Q189643"
+      },
+      "aphthous stomatitis" : {
+        "url" : "http://www.wikidata.org/entity/Q189956"
+      },
+      "cyanosis" : {
+        "url" : "http://www.wikidata.org/entity/Q192120"
+      },
+      "itch" : {
+        "url" : "http://www.wikidata.org/entity/Q199602"
+      },
+      "hydrocephalus" : {
+        "url" : "http://www.wikidata.org/entity/Q193003"
+      },
+      "ascites" : {
+        "url" : "http://www.wikidata.org/entity/Q193889"
+      },
+      "dehydration" : {
+        "url" : "http://www.wikidata.org/entity/Q194290"
+      },
+      "tinnitus" : {
+        "url" : "http://www.wikidata.org/entity/Q192309"
+      },
+      "sneeze" : {
+        "url" : "http://www.wikidata.org/entity/Q35830"
+      },
+      "fever" : {
+        "url" : "http://www.wikidata.org/entity/Q38933"
+      },
+      "ageusia" : {
+        "url" : "http://www.wikidata.org/entity/Q606216"
+      },
+      "dysphagia" : {
+        "url" : "http://www.wikidata.org/entity/Q623289"
+      },
+      "enanthem" : {
+        "url" : "http://www.wikidata.org/entity/Q599982"
+      },
+      "asthenia" : {
+        "url" : "http://www.wikidata.org/entity/Q633403"
+      },
+      "cholangitis" : {
+        "url" : "http://www.wikidata.org/entity/Q603644"
+      },
+      "glomerulonephritis" : {
+        "url" : "http://www.wikidata.org/entity/Q605006"
+      },
+      "anuria" : {
+        "url" : "http://www.wikidata.org/entity/Q612681"
+      },
+      "ptosis" : {
+        "url" : "http://www.wikidata.org/entity/Q622427"
+      },
+      "tachycardia" : {
+        "url" : "http://www.wikidata.org/entity/Q209583"
+      },
+      "burping" : {
+        "url" : "http://www.wikidata.org/entity/Q209789"
+      },
+      "nosebleed" : {
+        "url" : "http://www.wikidata.org/entity/Q202013"
+      },
+      "lymphoma" : {
+        "url" : "http://www.wikidata.org/entity/Q208414"
+      },
+      "encephalitis" : {
+        "url" : "http://www.wikidata.org/entity/Q199615"
+      },
+      "amblyopia" : {
+        "url" : "http://www.wikidata.org/entity/Q207855"
+      },
+      "snoring" : {
+        "url" : "http://www.wikidata.org/entity/Q205835"
+      },
+      "diarrhea" : {
+        "url" : "http://www.wikidata.org/entity/Q40878"
+      },
+      "purpura" : {
+        "url" : "http://www.wikidata.org/entity/Q935293"
+      },
+      "tracheitis" : {
+        "url" : "http://www.wikidata.org/entity/Q946278"
+      },
+      "leukocytosis" : {
+        "url" : "http://www.wikidata.org/entity/Q974869"
+      },
+      "hyperaemia" : {
+        "url" : "http://www.wikidata.org/entity/Q948806"
+      },
+      "somnolence" : {
+        "url" : "http://www.wikidata.org/entity/Q1077823"
+      },
+      "choreatic disease" : {
+        "url" : "http://www.wikidata.org/entity/Q1076421"
+      },
+      "memory loss" : {
+        "url" : "http://www.wikidata.org/entity/Q989365"
+      },
+      "papule" : {
+        "url" : "http://www.wikidata.org/entity/Q997862"
+      },
+      "paraplegia" : {
+        "url" : "http://www.wikidata.org/entity/Q1049655"
+      },
+      "blood coagulation disease" : {
+        "url" : "http://www.wikidata.org/entity/Q890200"
+      },
+      "echolalia" : {
+        "url" : "http://www.wikidata.org/entity/Q937353"
+      },
+      "oliguria" : {
+        "url" : "http://www.wikidata.org/entity/Q961326"
+      },
+      "hypokinesia" : {
+        "url" : "http://www.wikidata.org/entity/Q1036662"
+      },
+      "ataxia" : {
+        "url" : "http://www.wikidata.org/entity/Q213373"
+      },
+      "bradycardia" : {
+        "url" : "http://www.wikidata.org/entity/Q217111"
+      },
+      "sleep apnea" : {
+        "url" : "http://www.wikidata.org/entity/Q213600"
+      },
+      "nystagmus" : {
+        "url" : "http://www.wikidata.org/entity/Q220989"
+      },
+      "allergy" : {
+        "url" : "http://www.wikidata.org/entity/Q42982"
+      },
+      "meningitis" : {
+        "url" : "http://www.wikidata.org/entity/Q48143"
+      },
+      "arterial hypertension" : {
+        "url" : "http://www.wikidata.org/entity/Q41861"
+      },
+      "rash" : {
+        "url" : "http://www.wikidata.org/entity/Q653197"
+      },
+      "hemoptysis" : {
+        "url" : "http://www.wikidata.org/entity/Q647099"
+      },
+      "polydipsia" : {
+        "url" : "http://www.wikidata.org/entity/Q635195"
+      },
+      "vasculitis" : {
+        "url" : "http://www.wikidata.org/entity/Q644318"
+      },
+      "runny nose" : {
+        "url" : "http://www.wikidata.org/entity/Q1115038"
+      },
+      "chronic pain" : {
+        "url" : "http://www.wikidata.org/entity/Q1088113"
+      },
+      "tremor" : {
+        "url" : "http://www.wikidata.org/entity/Q223907"
+      },
+      "dysarthria" : {
+        "url" : "http://www.wikidata.org/entity/Q225957"
+      },
+      "dermatitis" : {
+        "url" : "http://www.wikidata.org/entity/Q229256"
+      },
+      "insomnia" : {
+        "url" : "http://www.wikidata.org/entity/Q1869874"
+      },
+      "lung abscess" : {
+        "url" : "http://www.wikidata.org/entity/Q1877550"
+      },
+      "cramp" : {
+        "url" : "http://www.wikidata.org/entity/Q2006818"
+      },
+      "restrictive cardiomyopathy" : {
+        "url" : "http://www.wikidata.org/entity/Q2151267"
+      },
+      "chills" : {
+        "url" : "http://www.wikidata.org/entity/Q2260058"
+      },
+      "macrocytosis" : {
+        "url" : "http://www.wikidata.org/entity/Q1886493"
+      },
+      "allodynia" : {
+        "url" : "http://www.wikidata.org/entity/Q1888634"
+      },
+      "pharyngitis" : {
+        "url" : "http://www.wikidata.org/entity/Q2085267"
+      },
+      "paresis" : {
+        "url" : "http://www.wikidata.org/entity/Q1126769"
+      },
+      "palpitation" : {
+        "url" : "http://www.wikidata.org/entity/Q1123260"
+      },
+      "polyuria" : {
+        "url" : "http://www.wikidata.org/entity/Q1124286"
+      },
+      "mydriasis" : {
+        "url" : "http://www.wikidata.org/entity/Q1128283"
+      },
+      "pain" : {
+        "url" : "http://www.wikidata.org/entity/Q81938"
+      },
+      "dementia" : {
+        "url" : "http://www.wikidata.org/entity/Q83030"
+      },
+      "inflammation" : {
+        "url" : "http://www.wikidata.org/entity/Q101991"
+      },
+      "endocarditis" : {
+        "url" : "http://www.wikidata.org/entity/Q82504"
+      },
+      "ventricular tachycardia" : {
+        "url" : "http://www.wikidata.org/entity/Q56002"
+      },
+      "hyperthermia" : {
+        "url" : "http://www.wikidata.org/entity/Q242165"
+      },
+      "paralysis" : {
+        "url" : "http://www.wikidata.org/entity/Q107231"
+      },
+      "muscle weakness" : {
+        "url" : "http://www.wikidata.org/entity/Q270421"
+      },
+      "cystitis" : {
+        "url" : "http://www.wikidata.org/entity/Q246084"
+      },
+      "anorexia" : {
+        "url" : "http://www.wikidata.org/entity/Q254327"
+      },
+      "stupor" : {
+        "url" : "http://www.wikidata.org/entity/Q268594"
+      },
+      "red eye" : {
+        "url" : "http://www.wikidata.org/entity/Q2610154"
+      },
+      "hemiparesis" : {
+        "url" : "http://www.wikidata.org/entity/Q2291130"
+      },
+      "pallor" : {
+        "url" : "http://www.wikidata.org/entity/Q2336398"
+      },
+      "meningoencephalitis" : {
+        "url" : "http://www.wikidata.org/entity/Q2346415"
+      },
+      "neuritis" : {
+        "url" : "http://www.wikidata.org/entity/Q2307256"
+      },
+      "abdominal distention" : {
+        "url" : "http://www.wikidata.org/entity/Q2536390"
+      },
+      "blister" : {
+        "url" : "http://www.wikidata.org/entity/Q276469"
+      },
+      "hypotension" : {
+        "url" : "http://www.wikidata.org/entity/Q275419"
+      },
+      "vomiting" : {
+        "url" : "http://www.wikidata.org/entity/Q127076"
+      },
+      "spasticity" : {
+        "url" : "http://www.wikidata.org/entity/Q117060"
+      },
+      "myoclonus" : {
+        "url" : "http://www.wikidata.org/entity/Q116275"
+      },
+      "dyspareunia" : {
+        "url" : "http://www.wikidata.org/entity/Q120395"
+      },
+      "swelling" : {
+        "url" : "http://www.wikidata.org/entity/Q109186"
+      },
+      "rhinitis" : {
+        "url" : "http://www.wikidata.org/entity/Q114085"
+      },
+      "alopecia" : {
+        "url" : "http://www.wikidata.org/entity/Q2697787"
+      },
+      "bubo" : {
+        "url" : "http://www.wikidata.org/entity/Q2722991"
+      },
+      "abdominal cramps" : {
+        "url" : "http://www.wikidata.org/entity/Q3002092"
+      },
+      "malaise" : {
+        "url" : "http://www.wikidata.org/entity/Q2673323"
+      },
+      "photophobia" : {
+        "url" : "http://www.wikidata.org/entity/Q281289"
+      },
+      "frequent urination" : {
+        "url" : "http://www.wikidata.org/entity/Q352585"
+      },
+      "apathy" : {
+        "url" : "http://www.wikidata.org/entity/Q309406"
+      },
+      "uveitis" : {
+        "url" : "http://www.wikidata.org/entity/Q280027"
+      },
+      "urinary incontinence" : {
+        "url" : "http://www.wikidata.org/entity/Q281490"
+      },
+      "acute respiratory distress syndrome" : {
+        "url" : "http://www.wikidata.org/entity/Q344873"
+      },
+      "febrile seizure" : {
+        "url" : "http://www.wikidata.org/entity/Q127664"
+      },
+      "hallucination" : {
+        "url" : "http://www.wikidata.org/entity/Q130741"
+      },
+      "jaundice" : {
+        "url" : "http://www.wikidata.org/entity/Q133244"
+      },
+      "edema" : {
+        "url" : "http://www.wikidata.org/entity/Q152234"
+      },
+      "hepatitis" : {
+        "url" : "http://www.wikidata.org/entity/Q131742"
+      },
+      "recurrent fever" : {
+        "url" : "http://www.wikidata.org/entity/Q3073149"
+      },
+      "lymphadenitis" : {
+        "url" : "http://www.wikidata.org/entity/Q3269466"
+      },
+      "rectorrhagia" : {
+        "url" : "http://www.wikidata.org/entity/Q3422583"
+      },
+      "flushing" : {
+        "url" : "http://www.wikidata.org/entity/Q3443277"
+      },
+      "intermittent fever" : {
+        "url" : "http://www.wikidata.org/entity/Q3073147"
+      },
+      "balance disorder" : {
+        "url" : "http://www.wikidata.org/entity/Q3540864"
+      },
+      "epigastric pain" : {
+        "url" : "http://www.wikidata.org/entity/Q3589142"
+      },
+      "prostration" : {
+        "url" : "http://www.wikidata.org/entity/Q3407854"
+      },
+      "granulomatous inflammation" : {
+        "url" : "http://www.wikidata.org/entity/Q3150763"
+      },
+      "nasal congestion" : {
+        "url" : "http://www.wikidata.org/entity/Q3245488"
+      },
+      "memory disorder" : {
+        "url" : "http://www.wikidata.org/entity/Q3072083"
+      },
+      "flatulence" : {
+        "url" : "http://www.wikidata.org/entity/Q160184"
+      },
+      "anxiety" : {
+        "url" : "http://www.wikidata.org/entity/Q154430"
+      },
+      "coma" : {
+        "url" : "http://www.wikidata.org/entity/Q159557"
+      },
+      "bleeding" : {
+        "url" : "http://www.wikidata.org/entity/Q166019"
+      },
+      "delirium" : {
+        "url" : "http://www.wikidata.org/entity/Q160796"
+      },
+      "abscess" : {
+        "url" : "http://www.wikidata.org/entity/Q164655"
+      },
+      "conjunctivitis" : {
+        "url" : "http://www.wikidata.org/entity/Q167844"
+      },
+      "abdominal mass" : {
+        "url" : "http://www.wikidata.org/entity/Q4665122"
+      },
+      "allergic response" : {
+        "url" : "http://www.wikidata.org/entity/Q4732121"
+      },
+      "back pain" : {
+        "url" : "http://www.wikidata.org/entity/Q5781808"
+      },
+      "saliva secretion" : {
+        "url" : "http://www.wikidata.org/entity/Q4424146"
+      },
+      "cachexia" : {
+        "url" : "http://www.wikidata.org/entity/Q6003455"
+      },
+      "urinary urgency" : {
+        "url" : "http://www.wikidata.org/entity/Q3858636"
+      },
+      "hoarseness" : {
+        "url" : "http://www.wikidata.org/entity/Q3930506"
+      },
+      "altered level of consciousness" : {
+        "url" : "http://www.wikidata.org/entity/Q4736316"
+      },
+      "bloating" : {
+        "url" : "http://www.wikidata.org/entity/Q4927059"
+      },
+      "mental depression" : {
+        "url" : "http://www.wikidata.org/entity/Q4340209"
+      },
+      "psychosis" : {
+        "url" : "http://www.wikidata.org/entity/Q170082"
+      },
+      "gangrene" : {
+        "url" : "http://www.wikidata.org/entity/Q168805"
+      },
+      "scoliosis" : {
+        "url" : "http://www.wikidata.org/entity/Q174857"
+      },
+      "arthritis" : {
+        "url" : "http://www.wikidata.org/entity/Q170990"
+      },
+      "sleep disorder" : {
+        "url" : "http://www.wikidata.org/entity/Q177190"
+      },
+      "bronchitis" : {
+        "url" : "http://www.wikidata.org/entity/Q173022"
+      },
+      "maculopapular rash" : {
+        "url" : "http://www.wikidata.org/entity/Q6725808"
+      },
+      "short stature" : {
+        "url" : "http://www.wikidata.org/entity/Q7502090"
+      },
+      "seizure" : {
+        "url" : "http://www.wikidata.org/entity/Q6279182"
+      },
+      "ulcer" : {
+        "url" : "http://www.wikidata.org/entity/Q6452285"
+      },
+      "dizziness" : {
+        "url" : "http://www.wikidata.org/entity/Q10916362"
+      },
+      "dysgeusia" : {
+        "url" : "http://www.wikidata.org/entity/Q6402731"
+      },
+      "knee pain" : {
+        "url" : "http://www.wikidata.org/entity/Q6421876"
+      },
+      "vertigo" : {
+        "url" : "http://www.wikidata.org/entity/Q10686316"
+      },
+      "facial paralysis" : {
+        "url" : "http://www.wikidata.org/entity/Q7562539"
+      },
+      "lethargy" : {
+        "url" : "http://www.wikidata.org/entity/Q15637420"
+      },
+      "colic" : {
+        "url" : "http://www.wikidata.org/entity/Q13522706"
+      },
+      "exanthem" : {
+        "url" : "http://www.wikidata.org/entity/Q14509067"
+      },
+      "abdominal discomfort" : {
+        "url" : "http://www.wikidata.org/entity/Q102186744"
+      },
+      "anaphylactic shock" : {
+        "url" : "http://www.wikidata.org/entity/Q15965523"
+      },
+      "acute respiratory insufficiency" : {
+        "url" : "http://www.wikidata.org/entity/Q21006662"
+      },
+      "joint inflammation" : {
+        "url" : "http://www.wikidata.org/entity/Q102186573"
+      },
+      "right upper quadrant abdominal rigidity" : {
+        "url" : "http://www.wikidata.org/entity/Q102186748"
+      },
+      "hemorrhagic diarrhea" : {
+        "url" : "http://www.wikidata.org/entity/Q21513416"
+      },
+      "vascular alteration" : {
+        "url" : "http://www.wikidata.org/entity/Q102186567"
+      },
+      "precordial pain" : {
+        "url" : "http://www.wikidata.org/entity/Q21120264"
+      },
+      "remittent fever" : {
+        "url" : "http://www.wikidata.org/entity/Q24869904"
+      },
+      "hepatic insufficiency" : {
+        "url" : "http://www.wikidata.org/entity/Q68663705"
+      },
+      "lightheadedness" : {
+        "url" : "http://www.wikidata.org/entity/Q57823162"
+      },
+      "hypergammaglobulinemia" : {
+        "url" : "http://www.wikidata.org/entity/Q17146775"
+      },
+      "eye pain" : {
+        "url" : "http://www.wikidata.org/entity/Q21077147"
+      },
+      "clouding of the corneas" : {
+        "url" : "http://www.wikidata.org/entity/Q21402601"
+      },
+      "continuous fever" : {
+        "url" : "http://www.wikidata.org/entity/Q29644032"
+      },
+      "abdominal tenderness" : {
+        "url" : "http://www.wikidata.org/entity/Q102186478"
+      },
+      "abnormal skin coloration" : {
+        "url" : "http://www.wikidata.org/entity/Q47085690"
+      },
+      "idiopathic chronic fatigue" : {
+        "url" : "http://www.wikidata.org/entity/Q96199399"
+      },
+      "dry cough" : {
+        "url" : "http://www.wikidata.org/entity/Q97464125"
+      },
+      "hemorrhage" : {
+        "url" : "http://www.wikidata.org/entity/Q102186528"
+      },
+      "hematochezia" : {
+        "url" : "http://www.wikidata.org/entity/Q1642049"
+      },
+      "enlargement of lymph nodes" : {
+        "url" : "http://www.wikidata.org/entity/Q102187500"
+      },
+      "polyphagia" : {
+        "url" : "http://www.wikidata.org/entity/Q653267"
+      },
+      "indigestion" : {
+        "url" : "http://www.wikidata.org/entity/Q653971"
+      },
+      "hypopyon" : {
+        "url" : "http://www.wikidata.org/entity/Q1638140"
+      },
+      "sweaty" : {
+        "url" : "http://www.wikidata.org/entity/Q102187421"
+      },
+      "hyperesthesia" : {
+        "url" : "http://www.wikidata.org/entity/Q1638131"
+      },
+      "hyperactivity" : {
+        "url" : "http://www.wikidata.org/entity/Q1640850"
+      },
+      "hypoesthesia" : {
+        "url" : "http://www.wikidata.org/entity/Q1641556"
+      },
+      "decreased appetite" : {
+        "url" : "http://www.wikidata.org/entity/Q102186869"
+      },
+      "gingivitis" : {
+        "url" : "http://www.wikidata.org/entity/Q673083"
+      },
+      "hyperpigmentation" : {
+        "url" : "http://www.wikidata.org/entity/Q1641068"
+      },
+      "body ache" : {
+        "url" : "http://www.wikidata.org/entity/Q102187006"
+      },
+      "left upper quadrant abdominal rigidity" : {
+        "url" : "http://www.wikidata.org/entity/Q102187229"
+      },
+      "severe abdominal cramp" : {
+        "url" : "http://www.wikidata.org/entity/Q102187266"
+      },
+      "hoarse voice" : {
+        "url" : "http://www.wikidata.org/entity/Q102187439"
+      }
+    },
+    "disease class" : {
+      "url": "http://www.wikidata.org/entity/Q112193867"
+    },
+    "symptom class" : {
+      "url" : "http://www.wikidata.org/entity/Q112965645"
+    }
+  },
+  "property" : {
+    "instance of" : {
+      "url" : "http://www.wikidata.org/prop/direct/P31"
+    },
+    "symptom or sign" : {
+      "url" : "http://www.wikidata.org/prop/direct/P780"
+    }
+  }
+}
